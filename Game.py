@@ -180,3 +180,9 @@ class Game:
             else:
                 print("Sorry you look around and can't do that")
             
+def main():
+       g = Game()
+
+
+if __name__ == “__main__“:
+       main()
